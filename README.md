@@ -1,4 +1,4 @@
-# AirgeadBanking
+# Week 8 Project
 Airgead Banking Application for CS210- Programming Languages
 
 This project makes an interactive banking application for a user to check how much they can make from starting a bank account that accrues interest monthly for whatever duration that they so choose to leave their amount of money they invest per month or just the interest that their investment makes each month.
